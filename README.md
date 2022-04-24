@@ -1,4 +1,4 @@
-# XIVSlothCombo - The Super Expanded XIVCombo
+# XIVSlothCombo - with Ranged Edits
 ## NEW: Join our [Discord](https://discord.gg/xT7zyjzjtY) server!
 
 [![Build](https://img.shields.io/github/workflow/status/Nik-Potokar/XIVSlothCombo/Build?style=for-the-badge)](https://github.com/Nik-Potokar/XIVSlothCombo/actions/workflows/build.yml)
