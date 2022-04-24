@@ -1,4 +1,7 @@
 # XIVSlothCombo - with Ranged Edits
+replaces Simple DNC and Simple BRD base buttons to Saber Dance and Refulgent Arrow for buff holding purposes.
+
+
 ## NEW: Join our [Discord](https://discord.gg/xT7zyjzjtY) server!
 
 [![Build](https://img.shields.io/github/workflow/status/Nik-Potokar/XIVSlothCombo/Build?style=for-the-badge)](https://github.com/Nik-Potokar/XIVSlothCombo/actions/workflows/build.yml)
