@@ -1,11 +1,11 @@
 [
     {
         "Author": "attick, daemitus, alymphocyte, Aki, Iaotle, Codemned, rushtothesun, damolitionn",
-        "Name": "XIVSlothCombo",
+        "Name": "XIVSlothCombo Ranged Edits",
         "Description": "XIVCombo But For Lazy Gamers, Should Have Everything That Original XIVCombo Has And More +++",
-        "InternalName": "XIVSlothCombo",
+        "InternalName": "XIVSlothComboRanged",
         "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+        "RepoUrl": "https://github.com/johnmarklg/XIVSlothComboRanged",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
         "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
