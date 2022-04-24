@@ -526,7 +526,7 @@ namespace XIVSlothComboPlugin.Combos
 
         protected override uint Invoke(uint actionID, uint lastComboMove, float comboTime, byte level)
         {
-            if (actionID == BRD.HeavyShot || actionID == BRD.BurstShot)
+            if (actionID == BRD.StraightShot || actionID == BRD.RefulgentArrow)
             {
                 var inCombat = HasCondition(Dalamud.Game.ClientState.Conditions.ConditionFlag.InCombat);
                 var gauge = GetJobGauge<BRDGauge>();
