@@ -425,7 +425,7 @@ namespace XIVSlothComboPlugin.Combos
 
         protected override uint Invoke(uint actionID, uint lastComboMove, float comboTime, byte level)
         {
-            if (actionID is DNC.Cascade)
+            if (actionID is DNC.SaberDance)
             {
                 var gauge = GetJobGauge<DNCGauge>();
                 var canWeave = CanWeave(actionID);
